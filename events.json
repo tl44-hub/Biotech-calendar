@@ -1,0 +1,1515 @@
+{
+ "updated": "2026-10-23T20:40:54.772336Z",
+ "events": [
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-10-30",
+   "precision": "day",
+   "title": "A Clinical Trial of Three Study Medicines (Encorafenib, Binimetinib, and Pembrolizumab) in Patients With Advanced or Metastatic Melanoma",
+   "source": "https://clinicaltrials.gov/study/NCT04657991",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VRTX",
+   "company": "Vertex Pharmaceuticals Inc / Ma",
+   "type": "Trial data",
+   "date": "2026-10-30",
+   "precision": "day",
+   "title": "A Study Evaluating the Long-term Safety and Efficacy of VX-121 Combination Therapy",
+   "source": "https://clinicaltrials.gov/study/NCT05444257",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "OLMA",
+   "company": "Olema Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2026-10-31",
+   "precision": "day",
+   "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06016738",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "TGTX",
+   "company": "Tg Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-10-31",
+   "precision": "day",
+   "title": "A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)",
+   "source": "https://clinicaltrials.gov/study/NCT07211633",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2026-10-31",
+   "precision": "day",
+   "title": "Capivasertib+Fulvestrant asTreatment for Locally Advanced(Inoperable) or Metastatic HR+/HER2- Breast Cancer in Chinese Patients",
+   "source": "https://clinicaltrials.gov/study/NCT06635447",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SRPT",
+   "company": "Sarepta Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-10-31",
+   "precision": "day",
+   "title": "A Study to Compare Safety and Efficacy of High Doses of Eteplirsen in Participants With Duchenne Muscular Dystrophy (DMD) (MIS51ON)",
+   "source": "https://clinicaltrials.gov/study/NCT03992430",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "Phase \u2162 Trial of Group ACYW135 Meningococcal Conjugate Vaccine in Children Aged 2-6 Years",
+   "source": "https://clinicaltrials.gov/study/NCT07505888",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VRCA",
+   "company": "Verrica Pharmaceuticals Inc.",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "Cantharidin Application in Patients With Common Warts (Verruca Vulgaris) (COVE-2)",
+   "source": "https://clinicaltrials.gov/study/NCT07246590",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CL",
+   "company": "Colgate Palmolive Co",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "To Assess the Efficacy of Two Brushing Regimens: in the Reduction of Established Dental Plaque and Gingivitis.",
+   "source": "https://clinicaltrials.gov/study/NCT07605338",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MCUJF",
+   "company": "Medicure Inc",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "Oral Pyridoxal 5'-Phosphate for the Treatment of Patients With PNPO Deficiency",
+   "source": "https://clinicaltrials.gov/study/NCT04706013",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CELG-RI",
+   "company": "Bristol Myers Squibb Co",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "day",
+   "title": "A Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Manic Episodes in Bipolar-I Disorder",
+   "source": "https://clinicaltrials.gov/study/NCT06951698",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CGON",
+   "company": "Cg Oncology, Inc.",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "A Study of Adjuvant Cretostimogene Grenadenorepvec for Treatment of Intermediate Risk NMIBC Following TURBT",
+   "source": "https://clinicaltrials.gov/study/NCT06111235",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "IMUX",
+   "company": "Immunic, Inc.",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "Study to Evaluate the Efficacy, Safety, and Tolerability of IMU-838 in Patients With Relapsing Multiple Sclerosis",
+   "source": "https://clinicaltrials.gov/study/NCT05134441",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "A Study of Upadacitinib in Adult Participants With Moderate-to-Severe Atopic Dermatitis and Inadequate Response to Dupilumab",
+   "source": "https://clinicaltrials.gov/study/NCT06389136",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SKBBY",
+   "company": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./Adr",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06448312",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "IMUX",
+   "company": "Immunic, Inc.",
+   "type": "Trial data",
+   "date": "2026-11-01",
+   "precision": "month",
+   "title": "Study to Evaluate the Efficacy, Safety and Tolerability of IMU-838 in Patients With Relapsing Multiple Sclerosis",
+   "source": "https://clinicaltrials.gov/study/NCT05201638",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2026-11-02",
+   "precision": "day",
+   "title": "A Phase III Study to Investigate the Efficacy and Safety of Anifrolumab in Adults With Chronic and/or Subacute Cutaneous Lupus Erythematosus",
+   "source": "https://clinicaltrials.gov/study/NCT06015737",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CELG-RI",
+   "company": "Bristol Myers Squibb Co",
+   "type": "Trial data",
+   "date": "2026-11-02",
+   "precision": "day",
+   "title": "A Study to Evaluate the Efficacy and Safety of KarXT for the Treatment of Manic Episodes in Bipolar-I Disorder (BALSAM-2)",
+   "source": "https://clinicaltrials.gov/study/NCT06951711",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ACHV",
+   "company": "Achieve Life Sciences, Inc.",
+   "type": "Trial data",
+   "date": "2026-11-15",
+   "precision": "day",
+   "title": "Phase 3 Trial Evaluating the Efficacy and Safety of Cytisinicline for Vaping Cessation in Adults Using Nicotine-Containing E Cigarettes",
+   "source": "https://clinicaltrials.gov/study/NCT07392125",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CELG-RI",
+   "company": "Bristol Myers Squibb Co",
+   "type": "Trial data",
+   "date": "2026-11-18",
+   "precision": "day",
+   "title": "A Study to Evaluate the Efficacy and Safety of Deucravacitinib in Adults With Active Sj\u00f6gren's Syndrome",
+   "source": "https://clinicaltrials.gov/study/NCT05946941",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CYTK",
+   "company": "Cytokinetics Inc",
+   "type": "Trial data",
+   "date": "2026-11-27",
+   "precision": "day",
+   "title": "Omecamtiv Mecarbil Post-trial Access Study",
+   "source": "https://clinicaltrials.gov/study/NCT04464525",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2026-11-28",
+   "precision": "day",
+   "title": "A Phase III Control Study of the Safety and Immunogenicity of vYF in Pediatric Population",
+   "source": "https://clinicaltrials.gov/study/NCT07103148",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-11-29",
+   "precision": "day",
+   "title": "A Study to Learn About the Study Medicine Called Rimegepant in Women When Used for Intermittent Prevention of Menstrual Migraine",
+   "source": "https://clinicaltrials.gov/study/NCT06641466",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SKBBY",
+   "company": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./Adr",
+   "type": "Trial data",
+   "date": "2026-11-30",
+   "precision": "day",
+   "title": "A Study of A166 Versus Trastuzumab Emtansine (T-DM1) in Patients With HER2-Positive Unresectable or Metastatic Breast Cancer Previously Treated With Trastuzumab and Taxane Therapy",
+   "source": "https://clinicaltrials.gov/study/NCT06968585",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2026-11-30",
+   "precision": "day",
+   "title": "Rilzabrutinib for the Adult Participants With Chronic ITP Who Have Completed Phase 3 Study in Japan",
+   "source": "https://clinicaltrials.gov/study/NCT07216079",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "KPTI",
+   "company": "Karyopharm Therapeutics Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study of Rituximab-Gemcitabine-Dexamethasone-Platinum (R-GDP) With or Without Selinexor in Patients With Relapsed/Refractory Diffuse Large B-cell Lymphoma",
+   "source": "https://clinicaltrials.gov/study/NCT04442022",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PRAX",
+   "company": "Praxis Precision Medicines, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Clinical Trial for Participants With DEE to Assess Efficacy, Safety, Tolerability, and PK of Relutrigine",
+   "source": "https://clinicaltrials.gov/study/NCT07010471",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "HROW",
+   "company": "Harrow, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Phase 3 Study Evaluating the Safety and Efficacy of TRIESENCE\u00ae (Injectable Suspension) for the Treatment of Ocular Inflammation and Pain After Ophthalmic Surgery",
+   "source": "https://clinicaltrials.gov/study/NCT07832552",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PRAX",
+   "company": "Praxis Precision Medicines, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+   "source": "https://clinicaltrials.gov/study/NCT07019922",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study to Assess Disease Activity and Safety of Lutikizumab in Adult and Adolescent Participants With Moderate to Severe Hidradenitis Suppurativa",
+   "source": "https://clinicaltrials.gov/study/NCT06468228",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MANE",
+   "company": "Veradermics, Inc",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Safety and Efficacy of VDPHL01 in Males With AGA",
+   "source": "https://clinicaltrials.gov/study/NCT06972264",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MDWD",
+   "company": "Mediwound Ltd.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Double Blind Study Performed to Evaluate the Efficacy and the Safety of EscharEx in Debridement of VLU (VALUE)",
+   "source": "https://clinicaltrials.gov/study/NCT06568627",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VNDA",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "day",
+   "title": "A Study to Evaluate Tradipitant on Treating Nausea and Vomiting Induced by GLP-1R Agonist Use",
+   "source": "https://clinicaltrials.gov/study/NCT07446439",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Pivotal 1 Study of ABBV-RGX-314 (Also Known as RGX-314) Gene Therapy Administered Via Subretinal Delivery One Time in Participants With nAMD",
+   "source": "https://clinicaltrials.gov/study/NCT04704921",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MDGL",
+   "company": "Madrigal Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Phase 3 Study to Evaluate the Effect of Resmetirom on Clinical Outcomes in Patients With Well-compensated NASH Cirrhosis (MAESTRO-NASH-OUTCOMES)",
+   "source": "https://clinicaltrials.gov/study/NCT05500222",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AXSM",
+   "company": "Axsome Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Elucidating TAAR-1, Dopamine, and Norepinephrine in Binge Eating Disorder Using Solriamfetol",
+   "source": "https://clinicaltrials.gov/study/NCT06413433",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "KRYS",
+   "company": "Krystal Biotech, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study Comparing KB803 and Matched Placebo in Patients With Dystrophic Epidermolysis Bullosa",
+   "source": "https://clinicaltrials.gov/study/NCT07016750",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VIR",
+   "company": "Vir Biotechnology, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study to Evaluate Tobevibart+Elebsiran in Participants With Chronic HDV Infection Not Virologically Suppressed With Bulevirtide",
+   "source": "https://clinicaltrials.gov/study/NCT07128550",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "UTHR",
+   "company": "United Therapeutics Corp",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study Evaluating the Long-Term Efficacy and Safety of Ralinepag in Subjects With PAH Via an Open-Label Extension",
+   "source": "https://clinicaltrials.gov/study/NCT03683186",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "GNLX",
+   "company": "Genelux Corp",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Efficacy & Safety of Olvi-Vec and Platinum-doublet + Bevacizumab Compared to Physician's Choice of Chemotherapy and Bevacizumab in Platinum-Resistant/Refractory Ovarian Cancer (PRROC) (OnPrime, GOG-3076)",
+   "source": "https://clinicaltrials.gov/study/NCT05281471",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "GILD",
+   "company": "Gilead Sciences, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Asian Study of Sacituzumab Govitecan (IMMU-132) in HR+/HER2- Metastatic Breast Cancer (MBC)",
+   "source": "https://clinicaltrials.gov/study/NCT04639986",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ALDX",
+   "company": "Aldeyra Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Clinical Trial Evaluating Patients With Primary Vitreoretinal Lymphoma",
+   "source": "https://clinicaltrials.gov/study/NCT07402876",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AXSM",
+   "company": "Axsome Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Studying Solriamfetol Modulation of TAAR-1, Dopamine, and Norepinephrine in Shift Work Disorder (SUSTAIN)",
+   "source": "https://clinicaltrials.gov/study/NCT06568367",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "IONS",
+   "company": "Ionis Pharmaceuticals Inc",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study to Assess the Long-Term Safety and Efficacy of Donidalorsen in the Prophylactic Treatment of Hereditary Angioedema (HAE)",
+   "source": "https://clinicaltrials.gov/study/NCT05392114",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AVIR",
+   "company": "Atea Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "C-Forward: Efficacy and Safety of BEM/RZR vs SOF/VEL in Subjects With Chronic HCV",
+   "source": "https://clinicaltrials.gov/study/NCT07037277",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BIIB",
+   "company": "Biogen Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "day",
+   "title": "A Study to Learn More About the Effects and Safety of Felzartamab Infusions in Adults With Kidney Transplants Who Have Antibody-Mediated Rejection (AMR)",
+   "source": "https://clinicaltrials.gov/study/NCT06685757",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "DMAC",
+   "company": "Diamedica Therapeutics Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Treatment of Acute Ischemic Stroke (ReMEDy2 Trial)",
+   "source": "https://clinicaltrials.gov/study/NCT05065216",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SKBBY",
+   "company": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./Adr",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "A Study of SKB264 in Combination With Pembrolizumab Versus Chemotherapy in Combination With Pembrolizumab as First-Line Treatment for PD-L1 Negative Patients With Locally Advanced or Metastatic Non-Squamous Non-Small Cell Lung Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06711900",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VNDA",
+   "company": "Vanda Pharmaceuticals Inc.",
+   "type": "Trial data",
+   "date": "2026-12-01",
+   "precision": "month",
+   "title": "Study to Evaluate the Efficacy and Safety of VQW-765 for the On-Demand Treatment of Social Anxiety Disorder",
+   "source": "https://clinicaltrials.gov/study/NCT07221578",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-02",
+   "precision": "day",
+   "title": "A Study to Learn How PF-06821497 (Mevrometostat) Works in Men With Metastatic Castration-resistant Prostate Cancer.",
+   "source": "https://clinicaltrials.gov/study/NCT06629779",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-02",
+   "precision": "day",
+   "title": "A Study to Learn About Medicine Called Ritlecitinib in Children Aged Between 6 to 12 Years With Severe Alopecia Areata",
+   "source": "https://clinicaltrials.gov/study/NCT07029711",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-04",
+   "precision": "day",
+   "title": "A Study to Learn About the Safety, Tolerability, and Immunogenicity of a Fifth Dose of 6-Valent OspA-Based Lyme Disease Vaccine",
+   "source": "https://clinicaltrials.gov/study/NCT07500506",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AMGN",
+   "company": "Amgen Inc",
+   "type": "Trial data",
+   "date": "2026-12-14",
+   "precision": "day",
+   "title": "Pharmacokinetic Similarity Between ABP 234 and Keytruda\u00ae (Pembrolizumab)",
+   "source": "https://clinicaltrials.gov/study/NCT06430866",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "EXEL",
+   "company": "Exelixis, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-15",
+   "precision": "day",
+   "title": "Study of XL092 + Nivolumab vs Sunitinib in Subjects With Advanced or Metastatic Non-Clear Cell Renal Cell Carcinoma",
+   "source": "https://clinicaltrials.gov/study/NCT05678673",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2026-12-23",
+   "precision": "day",
+   "title": "A Multicentre, Randomised, Double-blind, Parallel Group, Placebo-controlled, Time-to-first Asthma Exacerbation Phase III Efficacy and Safety Study of Benralizumab in Paediatric Patients With Severe Eosinophilic Asthma",
+   "source": "https://clinicaltrials.gov/study/NCT05692180",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "INCY",
+   "company": "Incyte Corp",
+   "type": "Trial data",
+   "date": "2026-12-26",
+   "precision": "day",
+   "title": "A Study to Evaluate the Long-Term Safety and Efficacy of Povorcitinib in Participants With Moderate to Severe Hidradenitis Suppurativa",
+   "source": "https://clinicaltrials.gov/study/NCT06212999",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-28",
+   "precision": "day",
+   "title": "A Study to Learn About the Investigational Medicine Called PF-06821497 (Mevrometostat) in Men With mCRPC Who Were Previously Treated With Abiraterone Acetate for Prostate Cancer (MEVPRO-1).",
+   "source": "https://clinicaltrials.gov/study/NCT06551324",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "RNAC",
+   "company": "Cartesian Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-30",
+   "precision": "day",
+   "title": "Investigating an mRNA CAR T-cell Therapy, Known as Descartes-08, as a Potential Approach to Treat Myasthenia Gravis",
+   "source": "https://clinicaltrials.gov/study/NCT06799247",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals Ltd.",
+   "type": "Trial data",
+   "date": "2026-12-30",
+   "precision": "day",
+   "title": "Open Label, Safety and Efficacy Study of QRX003 Lotion in Subjects With Netherton Syndrome",
+   "source": "https://clinicaltrials.gov/study/NCT05789056",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2026-12-30",
+   "precision": "day",
+   "title": "Immunogenicity and Safety of Rabies Vaccine (Serum-free Vero Cell) in a Pre-exposure Prophylaxis Regimen",
+   "source": "https://clinicaltrials.gov/study/NCT07055295",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals Ltd.",
+   "type": "Trial data",
+   "date": "2026-12-30",
+   "precision": "day",
+   "title": "Clinical Study of QRX003 Lotion in Subjects With Netherton Syndrome",
+   "source": "https://clinicaltrials.gov/study/NCT06953466",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-30",
+   "precision": "day",
+   "title": "Vepdegestrant (ARV-471/PF-07850327) + Palbociclib vs Letrozole + Palbociclib in ER(+)/HER2(-) Advanced Breast Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT05909397",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PLYX",
+   "company": "Polaryx Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "Safety, Tolerability, and Efficacy of PLX-200 in Patients With CLN3",
+   "source": "https://clinicaltrials.gov/study/NCT04637282",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BEIGF",
+   "company": "Beone Medicines Ltd.",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "A Study to Evaluate Long-term Safety of Zanubrutinib Regimens in Participants With B-Cell Malignancies Who Participated in BeiGene Parent Studies of Zanubrutinib",
+   "source": "https://clinicaltrials.gov/study/NCT04170283",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Durvalumab",
+   "source": "https://clinicaltrials.gov/study/NCT05303532",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VIR",
+   "company": "Vir Biotechnology, Inc.",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "A Study to Evaluate Tobevibart + Elebsiran in Chronic HDV Infection",
+   "source": "https://clinicaltrials.gov/study/NCT06903338",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "INSM",
+   "company": "Insmed Inc",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "An Extension Study of Treprostinil Palmitil Inhalation Powder (TPIP) for Pulmonary Arterial Hypertension (PAH)",
+   "source": "https://clinicaltrials.gov/study/NCT05649748",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "Continued Access Study for Participants Deriving Benefit in Pfizer-Sponsored Avelumab Parent Studies That Are Closing",
+   "source": "https://clinicaltrials.gov/study/NCT05059522",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SKBBY",
+   "company": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./Adr",
+   "type": "Trial data",
+   "date": "2026-12-31",
+   "precision": "day",
+   "title": "Study of SKB264 for Locally Advanced, Recurrent or Metastatic HR+/HER2- Breast Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06081959",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "A Study to Assess the Dose, Adverse Events, and Change in Disease Activity of Livmoniplimab as an Intravenous (IV) Solution in Combination With Budigalimab as an IV Solution in Adult Participants With Hepatocellular Carcinoma (HCC)",
+   "source": "https://clinicaltrials.gov/study/NCT06109272",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PRAX",
+   "company": "Praxis Precision Medicines, Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Randomized Clinical Trial Evaluating the Efficacy and Safety of Vormatrigine in Adults With Focal Seizures",
+   "source": "https://clinicaltrials.gov/study/NCT07505004",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Safety and Efficacy of Upadacitinib in Combination With Topical Corticosteroids in Children From 2 to Less Than 12 Years of Age in Japan With Moderate to Severe Atopic Dermatitis",
+   "source": "https://clinicaltrials.gov/study/NCT06701331",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CL",
+   "company": "Colgate Palmolive Co",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Clinical Evaluation of a Toothpaste for Dental Plaque Reduction and Prevention of Gum Problems",
+   "source": "https://clinicaltrials.gov/study/NCT07842991",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BIIB",
+   "company": "Biogen Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Placebo-Controlled Study of the Efficacy and Safety of BG00012 in Pediatric Subjects With Relapsing-Remitting Multiple Sclerosis (RRMS)",
+   "source": "https://clinicaltrials.gov/study/NCT02428218",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Phase \u2162 Trial of Group ACYW135 Meningococcal Conjugate Vaccine in Children Aged 12-23 Months",
+   "source": "https://clinicaltrials.gov/study/NCT07505836",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "RARE",
+   "company": "Ultragenyx Pharmaceutical Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "Setrusumab in Pediatric Japanese Subjects With Osteogenesis Imperfecta",
+   "source": "https://clinicaltrials.gov/study/NCT06636071",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "XENE",
+   "company": "Xenon Pharmaceuticals Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "An Open-Label Study of Azetukalner in Major Depressive Disorder",
+   "source": "https://clinicaltrials.gov/study/NCT06922110",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "LXRX",
+   "company": "Lexicon Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2027-01-01",
+   "precision": "month",
+   "title": "A Study to Evaluate the Efficacy and Safety of Sotagliflozin in Symptomatic Obstructive and Non-obstructive Hypertrophic Cardiomyopathy",
+   "source": "https://clinicaltrials.gov/study/NCT06481891",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-04",
+   "precision": "day",
+   "title": "A Phase III Study to Assess the Effect of AZD0780 on LDL-C in Patients With HeFH",
+   "source": "https://clinicaltrials.gov/study/NCT07000136",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MLTX",
+   "company": "Moonlake Immunotherapeutics",
+   "type": "Trial data",
+   "date": "2027-01-04",
+   "precision": "day",
+   "title": "Evaluation of Sonelokimab in Patients With Active Psoriatic Arthritis and Anti-TNF\u03b1 Inadequate Response",
+   "source": "https://clinicaltrials.gov/study/NCT06641089",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-05",
+   "precision": "day",
+   "title": "A Study of Andexanet Alfa in Patients Requiring Urgent Surgery or Procedure",
+   "source": "https://clinicaltrials.gov/study/NCT05926349",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-06",
+   "precision": "day",
+   "title": "Determine Effectiveness of Anifrolumab In SYstemic Sclerosis (DAISY)",
+   "source": "https://clinicaltrials.gov/study/NCT05925803",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2027-01-07",
+   "precision": "day",
+   "title": "Study of a Single Dose of a 21-valent Pneumococcal Conjugate Vaccine in Children and Adolescents With Sickle Cell Disease",
+   "source": "https://clinicaltrials.gov/study/NCT07247188",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "OCUL",
+   "company": "Ocular Therapeutix, Inc",
+   "type": "Trial data",
+   "date": "2027-01-08",
+   "precision": "day",
+   "title": "Study to Evaluate the Efficacy and Safety of Intravitreal OTX-TKI (Axitinib Implant) in Subjects With Neovascular Age- Related Macular Degeneration",
+   "source": "https://clinicaltrials.gov/study/NCT06495918",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-11",
+   "precision": "day",
+   "title": "A Phase III Study to Assess the Effect of AZD0780 on LDL-C in Patients With Clinical ASCVD or at Risk for a First ASCVD Event",
+   "source": "https://clinicaltrials.gov/study/NCT07000123",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-11",
+   "precision": "day",
+   "title": "A Study to Investigate the Efficacy and Safety of Dato-DXd With or Without Osimertinib Compared With Platinum Based Doublet Chemotherapy in Participants With EGFR-Mutated Locally Advanced or Metastatic Non-Small Cell Lung Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06417814",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-01-13",
+   "precision": "day",
+   "title": "A Study to Investigate Changes in Symptoms in Adult Participants With Chronic Rhinosinusitis With Nasal Polyposis Initiating Treatment With Tezepelumab",
+   "source": "https://clinicaltrials.gov/study/NCT06706817",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "IDYA",
+   "company": "Ideaya Biosciences, Inc.",
+   "type": "Trial data",
+   "date": "2027-01-15",
+   "precision": "day",
+   "title": "IDE196 (Darovasertib) in Combination With Crizotinib as First-line Therapy in Metastatic Uveal Melanoma",
+   "source": "https://clinicaltrials.gov/study/NCT05987332",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2027-01-18",
+   "precision": "day",
+   "title": "Study to Evaluate the Efficacy, Immunogenicity, and Safety of RSVpreF in Adults.",
+   "source": "https://clinicaltrials.gov/study/NCT05035212",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "TTRX",
+   "company": "Turn Therapeutics Inc.",
+   "type": "Trial data",
+   "date": "2027-01-20",
+   "precision": "day",
+   "title": "A Double-Blind, Randomized, Vehicle-Controlled Phase 2 Study to Assess the Efficacy and Safety of GX-03 in Adult Subjects With Moderate to Severe Atopic Dermatitis (Eczema)",
+   "source": "https://clinicaltrials.gov/study/NCT07355075",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AMGN",
+   "company": "Amgen Inc",
+   "type": "Trial data",
+   "date": "2027-01-21",
+   "precision": "day",
+   "title": "Efficacy and Safety of Maridebart Cafraglutide in Adult Participants With Type 2 Diabetes Mellitus Who Have Obesity or Are Overweight",
+   "source": "https://clinicaltrials.gov/study/NCT06858878",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AMGN",
+   "company": "Amgen Inc",
+   "type": "Trial data",
+   "date": "2027-01-21",
+   "precision": "day",
+   "title": "Evaluation of Maridebart Cafraglutide in Adult Participants Without Type 2 Diabetes Mellitus Who Have Obesity or Are Overweight",
+   "source": "https://clinicaltrials.gov/study/NCT06858839",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "TGTX",
+   "company": "Tg Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2027-01-21",
+   "precision": "day",
+   "title": "Study to Evaluate Safety, Efficacy and Pharmacokinetics (PK) of a Modified Regimen of Ublituximab",
+   "source": "https://clinicaltrials.gov/study/NCT05877963",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VRTX",
+   "company": "Vertex Pharmaceuticals Inc / Ma",
+   "type": "Trial data",
+   "date": "2027-01-25",
+   "precision": "day",
+   "title": "Evaluation of the Long-term Safety and Effectiveness of Suzetrigine (SUZ) in Participants With Painful Diabetic Peripheral Neuropathy (DPN)",
+   "source": "https://clinicaltrials.gov/study/NCT06696443",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2027-01-25",
+   "precision": "day",
+   "title": "A Phase 3 Study in India to Describe the Safety and Immunogenicity of RSVpreF",
+   "source": "https://clinicaltrials.gov/study/NCT07653100",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2027-01-30",
+   "precision": "day",
+   "title": "Immunogenicity and Safety of Rabies Vaccine (Serum-free Vero Cell) in a Simulated Post-exposure Prophylaxis Regimen",
+   "source": "https://clinicaltrials.gov/study/NCT07055893",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "QNRX",
+   "company": "Quoin Pharmaceuticals Ltd.",
+   "type": "Trial data",
+   "date": "2027-01-31",
+   "precision": "day",
+   "title": "Phase 2/3 Clinical Study of QRX003 Lotion in Subjects With Netherton Syndrome",
+   "source": "https://clinicaltrials.gov/study/NCT07538583",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "type": "Trial data",
+   "date": "2027-02-01",
+   "precision": "month",
+   "title": "A Phase 3 Study to Evaluate the Efficacy and Safety of Intravitreal KSI-101 in Participants With Macular Edema Secondary to Inflammation (MESI) - PINNACLE",
+   "source": "https://clinicaltrials.gov/study/NCT06996080",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "GILD",
+   "company": "Gilead Sciences, Inc.",
+   "type": "Trial data",
+   "date": "2027-02-01",
+   "precision": "month",
+   "title": "Study of Sacituzumab Govitecan-hziy and Pembrolizumab Versus Treatment of Physician's Choice and Pembrolizumab in Patients With Previously Untreated, Locally Advanced Inoperable or Metastatic Triple-Negative Breast Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT05382286",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BBIO",
+   "company": "BridgeBio Pharma, Inc.",
+   "type": "FDA decision",
+   "date": "2027-02-04",
+   "precision": "day",
+   "title": "b for Children with Achondroplasia &#xa0; - Accepted for Priority Review with a PDUFA target action date of February 4, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1743881/000114036126039334/ef20083591_ex99-1.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "OCGN",
+   "company": "Ocugen, Inc.",
+   "type": "Trial data",
+   "date": "2027-02-12",
+   "precision": "day",
+   "title": "A Phase 3 Study Of OCU400 Gene Therapy for the Treatment Of Retinitis Pigmentosa",
+   "source": "https://clinicaltrials.gov/study/NCT06388200",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CELG-RI",
+   "company": "Bristol Myers Squibb Co",
+   "type": "Trial data",
+   "date": "2027-02-16",
+   "precision": "day",
+   "title": "A Study of Repotrectinib Versus Crizotinib in Participants With Locally Advanced or Metastatic Tyrosine Kinase Inhibitor (TKI)-na\u00efve ROS1-positive Non-Small Cell Lung Cancer (NSCLC) (TRIDENT-3)",
+   "source": "https://clinicaltrials.gov/study/NCT06140836",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2027-02-17",
+   "precision": "day",
+   "title": "An Extension Study to Investigate the Long-term Safety and Tolerability of Itepekimab in Adult Participants With Inadequately Controlled Chronic Rhinosinusitis With Nasal Polyps",
+   "source": "https://clinicaltrials.gov/study/NCT07424144",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-02-18",
+   "precision": "day",
+   "title": "Study to Investigate Efficacy, Safety, and Tolerability of Zibotentan/Dapagliflozin Compared to Dapagliflozin in Participants With Chronic Kidney Disease and High Proteinuria (ZENITH High Proteinuria)",
+   "source": "https://clinicaltrials.gov/study/NCT06087835",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "REGN",
+   "company": "Regeneron Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2027-02-20",
+   "precision": "day",
+   "title": "REGN7508 Versus Apixaban and Enoxaparin for Thromboprophylaxis After Total Knee Arthroplasty in Adults",
+   "source": "https://clinicaltrials.gov/study/NCT07015905",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-02-22",
+   "precision": "day",
+   "title": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Osimertinib (TAGRISSO) (ROSY-T)",
+   "source": "https://clinicaltrials.gov/study/NCT05629234",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-02-23",
+   "precision": "day",
+   "title": "Phase 3 Study of Anifrolumab in Adult Patients With Active Proliferative Lupus Nephritis",
+   "source": "https://clinicaltrials.gov/study/NCT05138133",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ARDX",
+   "company": "Ardelyx, Inc.",
+   "type": "Trial data",
+   "date": "2027-02-26",
+   "precision": "day",
+   "title": "A 26-Wk Study to Assess Safety & Efficacy of Tenapanor for T/t of Chronic Idiopathic Constipation in Adults",
+   "source": "https://clinicaltrials.gov/study/NCT07382167",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CGEM",
+   "company": "Cullinan Therapeutics, Inc.",
+   "type": "FDA decision",
+   "date": "2027-02-27",
+   "precision": "day",
+   "title": "his indication remains under FDA review, with a Prescription Drug User Fee Act (PDUFA) target action date of February 27, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1789972/000119312526411011/cgem-ex99_1.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "APMD",
+   "company": "Apnimed, Inc.",
+   "type": "FDA decision",
+   "date": "2027-02-28",
+   "precision": "day",
+   "title": "9;s acceptance of our NDA for AD109 (proposed proprietary name Oxnimbi), with a PDUFA target action date of February 28, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526385355/apmd-ex99_1.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "PCVX",
+   "company": "Vaxcyte, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "Safety, Tolerability, and Immunogenicity of VAX-31 in Adults \u226550 Years With Prior Pneumococcal Vaccination",
+   "source": "https://clinicaltrials.gov/study/NCT07425392",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "Program to Assess Adverse Events and Change in Disease Activity of Oral Upadacitinib in Adult Participants With Moderate to Severe Systemic Lupus Erythematosus",
+   "source": "https://clinicaltrials.gov/study/NCT05843643",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PCVX",
+   "company": "Vaxcyte, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Clinical Study to Evaluate the Safety, Tolerability, and Immunogenicity of VAX-31 With Influenza Vaccine in Adults \u2265 50 Years of Age",
+   "source": "https://clinicaltrials.gov/study/NCT07365826",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "URGN",
+   "company": "Urogen Pharma Ltd.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Phase 3 Single-arm Study of UGN-104 for the Treatment of Low-grade Upper Tract Urothelial Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06774131",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "IONS",
+   "company": "Ionis Pharmaceuticals Inc",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "CORE-OLE: A Study of Olezarsen (ISIS 678354) Administered Subcutaneously to Participants With Severe Hypertriglyceridemia (SHTG)",
+   "source": "https://clinicaltrials.gov/study/NCT05681351",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Study to Assess Adverse Events and Change in Disease Activity of Risankizumab Subcutaneous Induction Treatment for Moderately to Severely Active Crohn's Disease.",
+   "source": "https://clinicaltrials.gov/study/NCT06063967",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Study to Assess Change in Disease Activity and Adverse Events (AEs) With Cariprazine in the Treatment of Depressive Episodes in Pediatric Participants Participants (10 to 17 Years of Age) With Bipolar I Disorder.",
+   "source": "https://clinicaltrials.gov/study/NCT04777357",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MDGL",
+   "company": "Madrigal Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Phase 3 Study to Evaluate Safety and Biomarkers of Resmetirom (MGL-3196) in Patients With Non-alcoholic Fatty Liver Disease (NAFLD), MAESTRO-NAFLD-Open-Label-Extension (MAESTRO-NAFLD-OLE)",
+   "source": "https://clinicaltrials.gov/study/NCT04951219",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VOR",
+   "company": "Vor Biopharma Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Study of Telitacicept for the Treatment of Generalized Myasthenia Gravis (UPSTREAM MG)",
+   "source": "https://clinicaltrials.gov/study/NCT06456580",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "STOK",
+   "company": "Stoke Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Double-blind Study Evaluating the Efficacy, Safety, and Tolerability of Zorevunersen in Patients With Dravet Syndrome",
+   "source": "https://clinicaltrials.gov/study/NCT06872125",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "OCUL",
+   "company": "Ocular Therapeutix, Inc",
+   "type": "Trial data",
+   "date": "2027-03-01",
+   "precision": "month",
+   "title": "A Study to Evaluate the Efficacy and Safety of OTX-TKI (Axitinib Implant) in Participants With Non-Proliferative Diabetic Retinopathy",
+   "source": "https://clinicaltrials.gov/study/NCT07235085",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "NTLA",
+   "company": "Intellia Therapeutics, Inc.",
+   "type": "FDA decision",
+   "date": "2027-03-10",
+   "precision": "day",
+   "title": "itary Angioedema (HAE) &#160; &#x2022; FDA sets Prescription Drug User Fee Act (PDUFA) date of March 10, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526385194/ntla-ex99_1.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "CELG-RI",
+   "company": "Bristol Myers Squibb Co",
+   "type": "Trial data",
+   "date": "2027-03-11",
+   "precision": "day",
+   "title": "A Study of Nivolumab Combined With Ipilimumab Versus Nivolumab Alone in Participants With Advanced Kidney Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT03873402",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "RYTM",
+   "company": "Rhythm Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-13",
+   "precision": "day",
+   "title": "A Trial of Setmelanotide in Patients With Congenital Hypothalamic Obesity (Sub-study of NCT05774756)",
+   "source": "https://clinicaltrials.gov/study/NCT06760546",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2027-03-17",
+   "precision": "day",
+   "title": "Evaluation of Oral Tofacitinib in Children Aged 2 to 17 Years Old Suffering From Moderate to Severe Ulcerative Colitis",
+   "source": "https://clinicaltrials.gov/study/NCT04624230",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "REGN",
+   "company": "Regeneron Pharmaceuticals, Inc.",
+   "type": "Trial data",
+   "date": "2027-03-22",
+   "precision": "day",
+   "title": "A Study With Combinations of Anti-LAG-3 and Anti-PD-1 Antibodies in Adult Participants With Advanced or Metastatic Melanoma (Harmony Head-to-Head)",
+   "source": "https://clinicaltrials.gov/study/NCT06246916",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2027-03-25",
+   "precision": "day",
+   "title": "A Study to Test a Medicine (Fitusiran) Injected Under the Skin for Preventing Bleeding Episodes in Male Adolescent or Adult Participants With Severe Hemophilia",
+   "source": "https://clinicaltrials.gov/study/NCT05662319",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AQST",
+   "company": "Aquestive Therapeutics, Inc.",
+   "type": "FDA decision",
+   "date": "2027-03-29",
+   "precision": "day",
+   "title": " 11 to the product&#8217;s label. The NDA has a Prescription Drug User Fee Act (PDUFA) target action date of March 29, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1398733/000139873326000056/etonaquestivelibervantpr.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "ETON",
+   "company": "Eton Pharmaceuticals, Inc.",
+   "type": "FDA decision",
+   "date": "2027-03-29",
+   "precision": "day",
+   "title": " 11 to the product&#8217;s label. The NDA has a Prescription Drug User Fee Act (PDUFA) target action date of March 29, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926032600/ex_1025429.htm",
+   "note": "From an 8-K filing. Check the filing for the drug and indication."
+  },
+  {
+   "ticker": "HURA",
+   "company": "Tuhura Biosciences, Inc./Nv",
+   "type": "Trial data",
+   "date": "2027-03-31",
+   "precision": "day",
+   "title": "Placebo-Controlled Trial of IFx-Hu2.0 Followed By Pembrolizumab In Checkpoint Inhibitor Na\u00efve Participants With Advanced Or Metastatic Merkel Cell Carcinoma",
+   "source": "https://clinicaltrials.gov/study/NCT06947928",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "PFE",
+   "company": "Pfizer Inc",
+   "type": "Trial data",
+   "date": "2027-03-31",
+   "precision": "day",
+   "title": "A 52-Week Study to Learn About the Safety and Effects of Ritlecitinib in Participants With Nonsegmental Vitiligo",
+   "source": "https://clinicaltrials.gov/study/NCT06163326",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SKBBY",
+   "company": "Sichuan Kelun-Biotech Biopharmaceutical Co., Ltd./Adr",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "A Study of SKB264 Versus Investigator's Choice Chemotherapy in Patients With Unresectable Recurrent or Metastatic Triple-Negative Breast Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT06279364",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "MNOV",
+   "company": "Medicinova Inc",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Evaluation of MN-166 (Ibudilast) for 12 Months Followed by an Open-label Extension for 6 Months in Patients With ALS",
+   "source": "https://clinicaltrials.gov/study/NCT04057898",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "KOD",
+   "company": "Kodiak Sciences Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "A Phase 3 Study to Evaluate the Efficacy and Safety of Intravitreal KSI-101 in Participants With Macular Edema Secondary to Inflammation (MESI) - PEAK",
+   "source": "https://clinicaltrials.gov/study/NCT06990399",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "COYA",
+   "company": "Coya Therapeutics, Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Study of COYA 302 for the Treatment of ALS",
+   "source": "https://clinicaltrials.gov/study/NCT07161999",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "ABBV",
+   "company": "Abbvie Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Mirvetuximab Soravtansine With Bevacizumab Versus Bevacizumab as Maintenance in Platinum-sensitive Epithelial Ovarian, Fallopian Tube, or Peritoneal Cancer",
+   "source": "https://clinicaltrials.gov/study/NCT05445778",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BLCO",
+   "company": "Bausch & Lomb Corp",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "A Study to Assess the Long-Term Safety of Lifitegrast/Perfluorohexyloctane Fixed-Dose Combination in Subjects With Dry Eye Disease",
+   "source": "https://clinicaltrials.gov/study/NCT07111013",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Phase \u2162 Trial of Group ACYW135 Meningococcal Conjugate Vaccine in Children Aged 6-11 Months",
+   "source": "https://clinicaltrials.gov/study/NCT07505823",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "LONA",
+   "company": "Leonabio, Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Evaluation of Lasofoxifene Combined With Abemaciclib Compared With Fulvestrant Combined With Abemaciclib in Locally Advanced or Metastatic ER+/HER2- Breast Cancer With an ESR1 Mutation",
+   "source": "https://clinicaltrials.gov/study/NCT05696626",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "CL",
+   "company": "Colgate Palmolive Co",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Clinical Study Examining the Control of Plaque and Gingivitis",
+   "source": "https://clinicaltrials.gov/study/NCT07842978",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SVA",
+   "company": "Sinovac Biotech Ltd",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Phase \u2162 Trial of Group ACYW135 Meningococcal Conjugate Vaccine in Children Aged 3-5 Months",
+   "source": "https://clinicaltrials.gov/study/NCT07505810",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VTVT",
+   "company": "Vtv Therapeutics Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "Cadisegliatin as Adjunctive Therapy to Insulin in Participants With Type 1 Diabetes",
+   "source": "https://clinicaltrials.gov/study/NCT06334133",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "XENE",
+   "company": "Xenon Pharmaceuticals Inc.",
+   "type": "Trial data",
+   "date": "2027-04-01",
+   "precision": "month",
+   "title": "A Study to Evaluate XEN1101 as Adjunctive Therapy in Primary Generalized Tonic-Clonic Seizures",
+   "source": "https://clinicaltrials.gov/study/NCT05667142",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "SNYNF",
+   "company": "Sanofi",
+   "type": "Trial data",
+   "date": "2027-04-05",
+   "precision": "day",
+   "title": "A Study to Investigate the Clinical Benefit of Isatuximab in Combination With Bortezomib, Lenalidomide and Dexamethasone in Adults With Newly Diagnosed Multiple Myeloma Not Eligible for Transplant",
+   "source": "https://clinicaltrials.gov/study/NCT03319667",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VRTX",
+   "company": "Vertex Pharmaceuticals Inc / Ma",
+   "type": "Trial data",
+   "date": "2027-04-06",
+   "precision": "day",
+   "title": "Evaluation of Efficacy and Safety of Suzetrigine (SUZ) for Pain Associated With Diabetic Peripheral Neuropathy",
+   "source": "https://clinicaltrials.gov/study/NCT07231419",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-04-06",
+   "precision": "day",
+   "title": "Roll Over StudY for Patients Who Have Completed a Previous Oncology Study With Olaparib",
+   "source": "https://clinicaltrials.gov/study/NCT04421963",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "VRTX",
+   "company": "Vertex Pharmaceuticals Inc / Ma",
+   "type": "Trial data",
+   "date": "2027-04-06",
+   "precision": "day",
+   "title": "Study to Evaluate Elexacaftor/Tezacaftor/Ivacaftor (ELX/TEZ/IVA) Long-term Safety and Efficacy in Subjects Without F508del",
+   "source": "https://clinicaltrials.gov/study/NCT05331183",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-04-16",
+   "precision": "day",
+   "title": "Study to Evaluate the Effect of Balcinrenone/Dapagliflozin in Patients With Heart Failure and Impaired Kidney Function",
+   "source": "https://clinicaltrials.gov/study/NCT06307652",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AMGN",
+   "company": "Amgen Inc",
+   "type": "Trial data",
+   "date": "2027-04-19",
+   "precision": "day",
+   "title": "Comparison Between ABP 692 and Ocrevus\u00ae (Ocrelizumab)",
+   "source": "https://clinicaltrials.gov/study/NCT06700343",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "AZN",
+   "company": "Astrazeneca Plc",
+   "type": "Trial data",
+   "date": "2027-04-20",
+   "precision": "day",
+   "title": "A Study of Camizestrant in ER+/HER2- Early Breast Cancer After at Least 2 Years of Standard Adjuvant Endocrine Therapy",
+   "source": "https://clinicaltrials.gov/study/NCT05774951",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  },
+  {
+   "ticker": "BNTX",
+   "company": "Biontech Se",
+   "type": "Trial data",
+   "date": "2027-04-21",
+   "precision": "day",
+   "title": "A Study of COVID-19 Vaccine(s) in Children and Adults",
+   "source": "https://clinicaltrials.gov/study/NCT07798648",
+   "note": "Primary completion date. Results are usually announced weeks to months later."
+  }
+ ]
+}
