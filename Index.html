@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Biotech catalyst calendar</title>
+<style>
+:root{--bg:#f2f5f6;--card:#fff;--ink:#14212b;--mute:#5d6b76;--line:#d8e0e4;--fda:#a8480f;--data:#0b5f8a}
+@media(prefers-color-scheme:dark){:root{--bg:#0f171d;--card:#17222a;--ink:#e6edf1;--mute:#93a3ae;--line:#2a3a45;--fda:#f0955a;--data:#6cc0ec}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
+h1{font:600 1.5rem/1.2 Georgia,"Times New Roman",serif;margin:0 0 4px}
+.sub{color:var(--mute);font-size:.875rem;margin:0 0 16px}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+input,select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+input{flex:1;min-width:140px}
+input:focus-visible,select:focus-visible,a:focus-visible{outline:2px solid var(--data);outline-offset:2px}
+h2{font:600 1rem/1.2 Georgia,serif;margin:28px 0 8px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.ev{display:grid;grid-template-columns:64px 1fr;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.day{font-variant-numeric:tabular-nums;font-weight:600}
+.day small{display:block;color:var(--mute);font-weight:400;font-size:.75rem}
+.tick{font-weight:700}
+.tag{font-size:.75rem;font-weight:600;margin-left:6px}
+.FDA{color:var(--fda)}.Data{color:var(--data)}
+.ttl{color:var(--mute);font-size:.875rem;margin:2px 0}
+.ev a{font-size:.8125rem;color:var(--data)}
+.empty{color:var(--mute);padding:24px 0}
+</style>
+</head>
+<body>
+<main>
+<h1>Biotech catalyst calendar</h1>
+<p class="sub" id="upd">Loading…</p>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search ticker or company" aria-label="Search ticker or company">
+  <select id="t" aria-label="Event type">
+    <option value="">All events</option>
+    <option>FDA decision</option>
+    <option>Trial data</option>
+  </select>
+</div>
+<div id="list"></div>
+</main>
+<script>
+const M=["January","February","March","April","May","June","July","August","September","October","November","December"];
+let data=[];
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function render(){
+  const q=document.getElementById("q").value.trim().toLowerCase(),t=document.getElementById("t").value;
+  const rows=data.filter(e=>(!t||e.type===t)&&(!q||(e.ticker+" "+e.company).toLowerCase().includes(q)));
+  if(!rows.length){list.innerHTML='<p class="empty">No events match. Try clearing the search.</p>';return}
+  let out="",cur="";
+  for(const e of rows){
+    const [y,m,d]=e.date.split("-"),key=M[+m-1]+" "+y;
+    if(key!==cur){out+=`<h2>${key}</h2>`;cur=key}
+    const cls=e.type==="FDA decision"?"FDA":"Data";
+    const day=e.precision==="day"?`${+d}`:"TBD";
+    out+=`<div class="ev"><div class="day">${day}<small>${e.precision==="day"?"":"in "+M[+m-1].slice(0,3)}</small></div><div>
+      <span class="tick">${esc(e.ticker||"—")}</span><span class="tag ${cls}">${esc(e.type)}</span>
+      <div>${esc(e.company)}</div><div class="ttl">${esc(e.title)}</div>
+      <a href="${esc(e.source)}" rel="noopener">Source</a></div></div>`;
+  }
+  list.innerHTML=out;
+}
+fetch("events.json").then(r=>r.json()).then(j=>{
+  data=j.events.filter(e=>e.date>=new Date().toISOString().slice(0,10));
+  upd.textContent="Updated "+new Date(j.updated).toLocaleDateString()+" · "+data.length+" upcoming events";
+  render();
+}).catch(()=>{upd.textContent="Could not load events.json. Run the update workflow first."});
+q.oninput=render;t.onchange=render;
+</script>
+</body>
+</html>
