@@ -1,4 +1,4 @@
-"""Builds events.json: upcoming biotech catalysts for public companies.
+Builds events.json: upcoming biotech catalysts for public companies.
 
 Sources (all free):
   1. ClinicalTrials.gov v2 API: Phase 3 industry trials with a primary completion
