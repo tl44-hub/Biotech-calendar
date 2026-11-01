@@ -1,62 +1,6 @@
 {
- "updated": "2026-10-31T11:30:15.323422Z",
+ "updated": "2026-11-01T11:29:39.053326Z",
  "events": [
-  {
-   "ticker": "SRPT",
-   "company": "Sarepta Therapeutics, Inc.",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Eteplirsen",
-   "indication": "Muscular Dystrophy, Duchenne",
-   "date": "2026-10-31",
-   "precision": "day",
-   "title": "A Study to Compare Safety and Efficacy of High Doses of Eteplirsen in Participants With Duchenne Muscular Dystrophy (DMD) (MIS51ON)",
-   "source": "https://clinicaltrials.gov/study/NCT03992430",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
-  {
-   "ticker": "OLMA",
-   "company": "Olema Pharmaceuticals, Inc.",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Palazestrant, Fulvestrant",
-   "indication": "Breast Cancer, Advanced Breast Cancer",
-   "date": "2026-10-31",
-   "precision": "day",
-   "title": "OP-1250 (Palazestrant) vs. Standard of Care for the Treatment of ER+/HER2- Advanced Breast Cancer",
-   "source": "https://clinicaltrials.gov/study/NCT06016738",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
-  {
-   "ticker": "AZN",
-   "company": "Astrazeneca Plc",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Capivasertib, Fulvestrant",
-   "indication": "Breast Cancer",
-   "date": "2026-10-31",
-   "precision": "day",
-   "title": "Capivasertib+Fulvestrant asTreatment for Locally Advanced(Inoperable) or Metastatic HR+/HER2- Breast Cancer in Chinese Patients",
-   "source": "https://clinicaltrials.gov/study/NCT06635447",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
-  {
-   "ticker": "TGTX",
-   "company": "Tg Therapeutics, Inc.",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Ublituximab, Ublituximab",
-   "indication": "Relapsing Multiple Sclerosis",
-   "date": "2026-10-31",
-   "precision": "day",
-   "title": "A Study to Evaluate the Pharmacokinetics, Pharmacodynamics, Safety, Radiological and Clinical Effects of Subcutaneous Ublituximab in Participants With Relapsing Multiple Sclerosis (RMS)",
-   "source": "https://clinicaltrials.gov/study/NCT07211633",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
   {
    "ticker": "CGON",
    "company": "Cg Oncology, Inc.",
@@ -2141,6 +2085,34 @@
    "precision": "day",
    "title": "Efficacy and Safety of Maridebart Cafraglutide in Adult Participants in Japan Who Have Obesity Disease",
    "source": "https://clinicaltrials.gov/study/NCT06987695",
+   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
+  },
+  {
+   "ticker": "INCY",
+   "company": "Incyte Corp",
+   "type": "Primary completion",
+   "confirmed": false,
+   "stage": "Phase 3",
+   "drug": "Ruxolitinib Cream, Vehicle Cream",
+   "indication": "NonSegmental Vitiligo",
+   "date": "2027-04-30",
+   "precision": "day",
+   "title": "A Study to Evaluate the Efficacy and Safety of Ruxolitinib Cream in Children (6 to < 12 Years Old) With Nonsegmental Vitiligo",
+   "source": "https://clinicaltrials.gov/study/NCT06804811",
+   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
+  },
+  {
+   "ticker": "ISRG",
+   "company": "Intuitive Surgical Inc",
+   "type": "Primary completion",
+   "confirmed": false,
+   "stage": "Phase 3",
+   "drug": "filricianine",
+   "indication": "Ureter Injury",
+   "date": "2027-04-30",
+   "precision": "day",
+   "title": "IS-001 Injection in Patients Undergoing Robotic-Assisted Colorectal Surgery",
+   "source": "https://clinicaltrials.gov/study/NCT07346066",
    "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
   },
   {
