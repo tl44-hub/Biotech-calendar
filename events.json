@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-15T11:36:54.234494Z",
+ "updated": "2026-11-16T12:02:29.477451Z",
  "events": [
-  {
-   "ticker": "ACHV",
-   "company": "Achieve Life Sciences, Inc.",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Cytisinicline, Placebo",
-   "indication": "Vaping Cessation",
-   "date": "2026-11-15",
-   "precision": "day",
-   "title": "Phase 3 Trial Evaluating the Efficacy and Safety of Cytisinicline for Vaping Cessation in Adults Using Nicotine-Containing E Cigarettes",
-   "source": "https://clinicaltrials.gov/study/NCT07392125",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
   {
    "ticker": "CELG-RI",
    "company": "Bristol Myers Squibb Co",
