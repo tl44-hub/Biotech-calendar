@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-22T11:41:31.056536Z",
+ "updated": "2026-11-23T11:52:07.760557Z",
  "events": [
-  {
-   "ticker": "CAPR",
-   "company": "CAPRICOR THERAPEUTICS, INC.",
-   "type": "PDUFA",
-   "confirmed": true,
-   "stage": "FDA decision",
-   "drug": "",
-   "indication": "",
-   "date": "2026-11-22",
-   "precision": "day",
-   "title": "cense Application (BLA) for Duchenne muscular dystrophy (DMD) under FDA review; PDUFA target action date of November 22, 2026",
-   "source": "https://www.sec.gov/Archives/edgar/data/1133869/000110465926125150/capr-ex99d1.htm",
-   "note": "From an 8-K filing. Check the filing for the drug and indication."
-  },
   {
    "ticker": "SNYNF",
    "company": "Sanofi",
