@@ -1,20 +1,6 @@
 {
- "updated": "2026-11-25T20:25:20.479429Z",
+ "updated": "2026-11-26T20:03:37.989243Z",
  "events": [
-  {
-   "ticker": "SNYNF",
-   "company": "Sanofi",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "rilzabrutinib",
-   "indication": "Immune Thrombocytopenia",
-   "date": "2026-11-25",
-   "precision": "day",
-   "title": "Rilzabrutinib for the Adult Participants With Chronic ITP Who Have Completed Phase 3 Study in Japan",
-   "source": "https://clinicaltrials.gov/study/NCT07216079",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
   {
    "ticker": "BBIO",
    "company": "BridgeBio Pharma, Inc.",
