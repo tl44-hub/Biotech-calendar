@@ -1,34 +1,6 @@
 {
- "updated": "2026-11-27T19:51:57.110963Z",
+ "updated": "2026-11-28T18:45:20.486776Z",
  "events": [
-  {
-   "ticker": "BBIO",
-   "company": "BridgeBio Pharma, Inc.",
-   "type": "PDUFA",
-   "confirmed": true,
-   "stage": "FDA decision",
-   "drug": "",
-   "indication": "",
-   "date": "2026-11-27",
-   "precision": "day",
-   "title": "U.K., and Australia New data to be shared at AHA 2026 BBP-418 for LGMD2I&#47;R9 PDUFA date set for November 27, 2026",
-   "source": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000033/bbio-20260930xex991.htm",
-   "note": "From an 8-K filing. Check the filing for the drug and indication."
-  },
-  {
-   "ticker": "CYTK",
-   "company": "Cytokinetics Inc",
-   "type": "Primary completion",
-   "confirmed": false,
-   "stage": "Phase 3",
-   "drug": "Omecamtiv mecarbil",
-   "indication": "Chronic Heart Failure With Reduced Ejection Fraction",
-   "date": "2026-11-27",
-   "precision": "day",
-   "title": "Omecamtiv Mecarbil Post-trial Access Study",
-   "source": "https://clinicaltrials.gov/study/NCT04464525",
-   "note": "Estimate only: when data collection is scheduled to end. Not an announcement date."
-  },
   {
    "ticker": "SNYNF",
    "company": "Sanofi",
@@ -1187,8 +1159,8 @@
    "indication": "",
    "date": "2027-02-04",
    "precision": "day",
-   "title": "b for Children with Achondroplasia &#xa0; - Accepted for Priority Review with a PDUFA target action date of February 4, 2027",
-   "source": "https://www.sec.gov/Archives/edgar/data/1743881/000114036126039334/ef20083591_ex99-1.htm",
+   "title": "ority Review U.S. launch upon FDA approval Oral infigratinib for achondroplasia PDUFA date set for February 4, 2027",
+   "source": "https://www.sec.gov/Archives/edgar/data/1743881/000174388126000033/bbio-20260930xex991.htm",
    "note": "From an 8-K filing. Check the filing for the drug and indication."
   },
   {
